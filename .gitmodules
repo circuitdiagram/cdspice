@@ -1,0 +1,3 @@
+[submodule "circuitdiagram"]
+	path = circuitdiagram
+	url = https://git01.codeplex.com/circuitdiagram
